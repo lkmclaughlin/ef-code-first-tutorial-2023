@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ef-code-first-tutorial-2023", "ef-code-first-tutorial-2023\ef-code-first-tutorial-2023.csproj", "{A9B98FE0-9E76-436C-98B4-3D3FDD562465}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9B98FE0-9E76-436C-98B4-3D3FDD562465}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9B98FE0-9E76-436C-98B4-3D3FDD562465}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9B98FE0-9E76-436C-98B4-3D3FDD562465}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9B98FE0-9E76-436C-98B4-3D3FDD562465}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9779D4BC-2888-4B49-85F0-8AFD89F66FE1}
+	EndGlobalSection
+EndGlobal
