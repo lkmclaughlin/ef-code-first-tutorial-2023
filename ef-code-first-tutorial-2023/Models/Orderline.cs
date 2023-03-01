@@ -20,5 +20,4 @@ public class Orderline
     public virtual Item Item { get; set; } = null!;
 
     public Orderline() { }
-
 }
